@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1c8b8249dd8754bf","x":596,"y":-454,"width":250,"height":60,"type":"text","text":""},
+		{"id":"df98063dba353a6e","type":"file","file":"Мусорка/Serindipyty video/scenario.md","x":-540,"y":-260,"width":680,"height":600},
+		{"id":"38caf63c67160a9a","x":427,"y":-345,"width":292,"height":400,"type":"file","file":"Pasted image 20251117193535.jpg"},
+		{"id":"58c9626cc7849d49","x":760,"y":-345,"width":400,"height":400,"type":"file","file":"Pasted image 20251117193604.jpg"}
+	],
+	"edges":[]
+}
